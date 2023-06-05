@@ -1,6 +1,0 @@
-export * from '@/components/Common/Skeleton/SkeletonNewsList'
-export * from '@/components/Common/Skeleton/SkeletonHashTagList'
-export * from '@/components/Common/Skeleton/SkeletonNewsDetail'
-export * from '@/components/Common/Skeleton/SkeletonProfile'
-export * from '@/components/Common/Skeleton/SkeletonReadingList'
-export * from '@/components/Common/Skeleton/SkeletonRelationList'
